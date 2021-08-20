@@ -1,5 +1,5 @@
-# Coded By @liar33333333
-# Author: Lie / Yin
+# Coded By @rentarys
+# Author: Vuln / Granta
 # Email: opps@reborn.com
 # If you use code, pls give credits to me.
 
