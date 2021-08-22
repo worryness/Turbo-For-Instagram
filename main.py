@@ -1,4 +1,4 @@
-# Coded By @rentarys
+# Coded By @doglinux
 # Author: Vuln / Granta
 # Email: opps@reborn.com
 # If you use code, pls give credits to me.
